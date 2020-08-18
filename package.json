@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "backend api gulappX",
   "main": "server.js",
+  "engines": {
+    "node": "13.x"
+  }
   "scripts": {
     "start": "nodemon server.js",
     "build": "react-scripts build",
